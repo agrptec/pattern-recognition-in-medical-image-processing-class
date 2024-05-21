@@ -9,8 +9,7 @@
 | No.        | Class          |Code and notebooks |  Complementary material|
 | :-------------: |:-------------| :-----:| :-----|
 | 1.              | Introduction to Machine Learning Models|  <ul> <li>[Notebook](https://colab.research.google.com/drive/17Zh3fwWtXJp4toCfxl7RxZh1VlQCuFBE?usp=sharing) </li> </ul> | 
-| 2.              | Convolutional Neural Networks| <ul> <li>[Notebook](https://colab.research.google.com/drive/1cW0BFpXXqdV3iLdyMrZXHdHYFML8uCXP?usp=sharing) </li> </ul> |  | 
-
+| 2.              | Convolutional Neural Networks| <ul> <li>[Notebook](https://colab.research.google.com/drive/1cW0BFpXXqdV3iLdyMrZXHdHYFML8uCXP?usp=sharing) </li> <li>[Notebook](https://colab.research.google.com/drive/1bU-ikPHchLwGNYT1apJmb-5NV1Shb-y6?usp=sharing) </li> </ul> |  | 
 
 
 
